@@ -1,0 +1,9 @@
+(1) i = 1
+(2) if i <= 10 goto (4)
+(3) goto next
+(4) t1 = x + 2
+(5) x = t1
+(6) t2 = i + 1
+(7) i = t2
+(8) goto (2) 
+(9) next:

@@ -1,0 +1,7 @@
+S
+S AB
+S . 
+A a
+A . 
+B b
+B .
